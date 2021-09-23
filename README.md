@@ -1,8 +1,8 @@
 ### Olá, eu sou a Talissa Silva 👋
 
-Hoje estou trabalhando em fullstack;
+Estou em busca do meu primeiro em emprego como Desenvolvedora ;
 Estudando Typescript;
-Pronomes: Ela/Dela
+Pronomes: Ela/Dela.
 
 <div align="center">
   <a href="https://github.com/talisilva">
@@ -16,4 +16,12 @@ Pronomes: Ela/Dela
   <img align="center" alt="Tali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tali-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+<div> 
+  <a href="https://instagram.com/talisilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "gmail:talissaagtha@gmail.com"><img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/talissasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
