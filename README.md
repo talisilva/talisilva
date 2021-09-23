@@ -1,7 +1,7 @@
 ### Olá, eu sou a Talissa Silva 👋
 
-Hoje estou trabalhando em fullstack
-Estudando Typescript
+Hoje estou trabalhando em fullstack;
+Estudando Typescript;
 Pronomes: Ela/Dela
 
 <div align="center">
