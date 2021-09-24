@@ -16,6 +16,7 @@ Pronomes: Ela/Dela.
   <img align="center" alt="Tali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tali-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Tali-pic" height="150" style="border-radius:50px;" src = "https://discord.com/channels/890758555362291763/890758555806859317/890758609032609882"
 </div>
 <div> 
   <a href="https://instagram.com/talisilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
