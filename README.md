@@ -1,6 +1,6 @@
 ### Olá, eu sou a Talissa Silva 👋
 
-Estou em busca do meu primeiro em emprego como Desenvolvedora ;
+Estou em busca do meu primeiro emprego como Desenvolvedora ;
 Estudando Typescript;
 Pronomes: Ela/Dela.
 
