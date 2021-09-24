@@ -19,7 +19,7 @@ Pronomes: Ela/Dela.
   <img align="right" alt="Tali-pic" height="150" style="border-radius:50px;" src = "https://media.discordapp.net/attachments/890758555806859317/890758608814485564/download20210904213006.png?width=390&height=390">
 </div>
 <div> 
-  <a href="https://instagram.com/talisilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/copycatali" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gmail:talissaagtha@gmail.com"><img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/talissasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
