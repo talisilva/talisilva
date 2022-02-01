@@ -1,7 +1,7 @@
 ### Olá, eu sou a Talissa Silva 👋
 
-Estou em busca do meu primeiro emprego como Desenvolvedora ;
-Estudando Typescript;
+Sou Engenheira de Qualidade de Software [Quality Assurance] e uma Dev FullStack iniciante;
+Estudando Automação de Testes;
 Pronomes: Ela/Dela.
 
 <div align="center">
