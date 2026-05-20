@@ -12,12 +12,13 @@ Currently working in the fintech industry with experience in:
 - incident analysis
 
 I'm currently focused on:
-- Python Backend
-- FastAPI
-- PostgreSQL
-- AWS & Cloud
-- Docker & CI/CD
-- AI integrations
+Python Backend
+FastAPI
+PostgreSQL
+Docker & CI/CD
+RabbitMQ
+AWS & Cloud
+AI integrations
 
 ---
 
