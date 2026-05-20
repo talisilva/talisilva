@@ -1,8 +1,55 @@
-### Olá, eu sou a Talissa Silva 👋
+# Hi there, I'm Talissa 👋
 
-Sou Engenheira de Qualidade de Software [Quality Assurance] e uma Dev FullStack iniciante;
-Estudando Automação de Testes;
-Pronomes: Ela/Dela.
+Backend Engineer in progress | QA Technical Analyst | Python & Cloud Enthusiast
+
+## 🚀 About me
+
+Currently working in the fintech industry with experience in:
+- backend investigation
+- APIs and integrations
+- technical QA
+- distributed systems
+- incident analysis
+
+I'm currently focused on:
+- Python Backend
+- FastAPI
+- PostgreSQL
+- AWS & Cloud
+- Docker & CI/CD
+- AI integrations
+
+---
+
+## 🧠 Tech Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- MySQL
+- Docker
+- GitHub Actions
+- RabbitMQ
+- AWS (learning)
+- Salesforce
+
+---
+
+## 🌎 Current Goals
+
+- Becoming a strong Backend Engineer
+- Improving cloud and architecture skills
+- Building AI-powered backend projects
+- Preparing for the international market
+
+---
+
+## 📌 Featured Project
+
+🚧 IncidentHub AI (in progress)
+
+Intelligent incident management platform built with:
+FastAPI • PostgreSQL • Docker • AWS • OpenAI
 
 <div align="center">
   <a href="https://github.com/talisilva">
